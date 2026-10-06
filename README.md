@@ -61,7 +61,7 @@ n_h = 5 gave the best balance; larger networks began fitting noise in the traini
 
 | File | Description |
 |------|-------------|
-| `Lab2_Alshurafa_Massalha.ipynb` | Full lab notebook with code, outputs, plots, and reflection answers |
+| `Lab2_Mastering_Non_Linearity_DL.ipynb` | Full lab notebook with code, outputs, plots, and reflection answers |
 | `Mastering_Non-Linear_Neural_Networks.pdf` | Presentation summarizing the lab and results |
 
 ## How to run
